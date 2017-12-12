@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Air tickets</string>
+    <string name="tvCityFrom">Из:</string>
+    <string name="tvCityTo">В:</string>
+
+    <string name="cbTransfer">С пересадкой</string>
+    <string name="tvDateFrom">С:</string>
+    <string name="tvDateTo">По:</string>
+    <string name="makeMeWell">Подобрать</string>
+
+    <string name="rbPrice">по цене</string>
+    <string name="rbTime">по времени вылета</string>
+    <string name="rbTimeOfFlight">времени в пути</string>
+    <string name="rbBest">выбор лучшего</string>
+
+    <string name="date_picker_title">Дата вылета</string>
+    <string name="select_a_destination">Выберите пункт назначения</string>
+    <string name="select_the_correct_time">Выберите корректный временной интервал</string>
+
+    <string name="duration_str_text">Продолжительность перелета</string>
+    <string name="price_text">Стоимость билета</string>
+
+    <string name="default_button_from_text">начальная дата</string>
+    <string name="default_button_to_text">конечная дата</string>
+
+
+    <string-array name="cities">
+        <item>MOW</item>
+        <item>SIP</item>
+    </string-array>
+
+</resources>
